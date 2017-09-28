@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PazQuiz1</string>
+
+    <string-array name="names">
+        <item>Faculty of Engineering</item>
+        <item>Faculty of Medicine</item>
+        <item>Institute of Information and Computing Sciences</item>
+        <item>Faculty of Pharmacy</item>
+        <item>College of Education</item>
+    </string-array>
+</resources>
